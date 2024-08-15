@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myfirstreactapp/static/css/main.64104d06.css",
-    "main.js": "/myfirstreactapp/static/js/main.1bebe9eb.js",
+    "main.js": "/myfirstreactapp/static/js/main.f70ebaeb.js",
     "index.html": "/myfirstreactapp/index.html",
     "main.64104d06.css.map": "/myfirstreactapp/static/css/main.64104d06.css.map",
-    "main.1bebe9eb.js.map": "/myfirstreactapp/static/js/main.1bebe9eb.js.map"
+    "main.f70ebaeb.js.map": "/myfirstreactapp/static/js/main.f70ebaeb.js.map"
   },
   "entrypoints": [
     "static/css/main.64104d06.css",
-    "static/js/main.1bebe9eb.js"
+    "static/js/main.f70ebaeb.js"
   ]
 }
